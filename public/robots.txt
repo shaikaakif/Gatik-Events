@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Disallow: /participant/
+Disallow: /volunteer/
+Disallow: /coordinator/
+Disallow: /principal/
+Disallow: /invitations/
+
+Sitemap: https://events.shaikaakif.com/sitemap.xml
